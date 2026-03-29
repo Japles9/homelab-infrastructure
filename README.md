@@ -103,8 +103,6 @@ The environment mirrors enterprise-style systems including Active Directory, int
 
 ![VMware](./screenshots/vmware-dashboard.png)
 
-### Active Directory Users & Computers
-
 ### Active Directory Management
 ![Active Directory](./screenshots/ad-users.png)
 Displays organizational units and user account management within the Active Directory domain, demonstrating identity and access control configuration.
