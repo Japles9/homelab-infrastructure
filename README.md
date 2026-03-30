@@ -105,6 +105,7 @@ The environment mirrors enterprise-style systems including Active Directory, int
 
 ### Active Directory Management
 ![Active Directory](./screenshots/ad-users.png)
+
 Displays organizational units and user account management within the Active Directory domain, demonstrating identity and access control configuration.
 
 ### Domain Join Verification
@@ -118,6 +119,7 @@ Demonstrates command-line access to the Security Onion management system, includ
 
 ### Linux System Monitoring (Kali)
 ![Linux Monitoring](./screenshots/linux-monitoring.png)
+
 Real-time system monitoring using htop, displaying CPU utilization, memory usage, and active processes within the Kali Linux environment.
 
 ---
