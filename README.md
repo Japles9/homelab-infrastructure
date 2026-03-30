@@ -109,6 +109,7 @@ Displays organizational units and user account management within the Active Dire
 
 ### Domain Join Verification
 ![Domain Join](./screenshots/domain-join.png)
+
 Displays a client system successfully joined to the Active Directory domain, confirming proper DNS configuration, domain integration, and centralized authentication.
 
 ### Security Onion System Access (Linux)
